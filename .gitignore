@@ -3,6 +3,7 @@
 *.txt
 *.gz
 *.tsv
+*.png
 *tbi
 docs/_build
 docs/api/episcanpy.api.*.rst
