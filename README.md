@@ -8,4 +8,4 @@ The documentation for epiScanpy is available `here <https://episcanpy.readthedoc
 
 This specific repository gather scripts used for the benchamrking of epiScanpy to other scATACseq dataprocessign methods using https://github.com/pinellolab/scATAC-benchmarking implementation (Huidong Chen, Caleb Lareau, Tommaso Andreani, Michael E. Vinyard, Sara P. Garcia, Kendell Clement, Miguel A. Andrade-Navarro, Jason D. Buenrostro & Luca Pinello. Assessment of computational methods for the analysis of single-cell ATAC-seq data. Genome Biology 20, 241 (2019).)
 
-Data available upon request.
+Due to the large size of the data, they are not directly available on Github. Just send an email to anna.danese@helmholtz-muenchen.de and we will make them available.
