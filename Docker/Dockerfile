@@ -37,7 +37,7 @@ RUN pip install --upgrade --no-cache-dir --upgrade-strategy=only-if-needed \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
 
-RUN pip install git+https://github.com/colomemaria/epiScanpy@60484de8ccb44cf53ead1cafece11cf5e8e9dd42 && \
+RUN pip install git+https://github.com/colomemaria/epiScanpy@2bd1a9e235693251adc60d73ac5fe6abf76729fc && \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
 
