@@ -7,27 +7,27 @@ Due to the large size of the data, they are not directly available on Github. Se
 The results in terms of ARI, AMI and homogeneity is shown in the figures below:
 
 ## Buenrostro et al 2018 (bulk peaks)
-HERE UMAP FIGURE from powerpoint
+<img src="../images/umap_Buenrostro_bulk.png">
 <img src="../images/Buenrostro_bulk_dotplot_ARI.png">
 <img src="../images/Buenrostro_bulk_dotplot_AMI.png">
 <img src="../images/Buenrostro_bulk_dotplot_homogeneity.png">
 
 
 ## Buenrostro et al 2018
-HERE UMAP FIGURE from powerpoint
+<img src="../images/umap_Buenrostro_all.png">
 <img src="../images/Buenrostro_all_dotplot_ARI.png">
 <img src="../images/Buenrostro_all_dotplot_AMI.png">
 <img src="../images/Buenrostro_all_dotplot_homogeneity.png">
 
 ## Cusanovich et al whole atlas
-HERE UMAP FIGURE from powerpoint
+<img src="../images/umap_Cusanovich_all.png">
 <img src="../images/Cusanovich_all_dotplot_ARI.png">
 <img src="../images/Cusanovich_all_dotplot_AMI.png">
 <img src="../images/Cusanovich_all_dotplot_homogeneity.png">
 
 
 ## Cusanovich et al subsampled atlas
-HERE UMAP FIGURE from powerpoint
+<img src="../images/umap_Cusanovich_subampled.png">
 <img src="../images/Cusanovich_subset_dotplot_ARI.png">
 <img src="../images/Cusanovich_subset_dotplot_AMI.png">
 <img src="../images/Cusanovich_subset_dotplot_homogeneity.png">
