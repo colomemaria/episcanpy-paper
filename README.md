@@ -6,6 +6,8 @@
 The documentation for epiScanpy is available `here <https://episcanpy.readthedocs.io/en/latest/>`__. If epiScanpy is useful to your research, consider citing `epiScanpy <https://www.biorxiv.org/content/10.1101/648097v1>`__.
 
 
-This specific repository gather scripts used for the benchamrking of epiScanpy to other scATACseq dataprocessign methods using https://github.com/pinellolab/scATAC-benchmarking implementation (Huidong Chen, Caleb Lareau, Tommaso Andreani, Michael E. Vinyard, Sara P. Garcia, Kendell Clement, Miguel A. Andrade-Navarro, Jason D. Buenrostro & Luca Pinello. Assessment of computational methods for the analysis of single-cell ATAC-seq data. Genome Biology 20, 241 (2019).)
+Here you can find the analysis of bone marrow cell types measured using scATAC-seq (data from Cusanovich et al. 2018 (CITE)), as well as brain cell types measured using scATAC-seq   (from Cusanovich et al. 2018 (CITE)) and using scRNA-seq (from Saunders et al. 2018 (CITE)). 
+Also, we provide the scripts used for the benchmarking of epiScanpy to other scATACseq data processing methods using https://github.com/pinellolab/scATAC-benchmarking implementation (Huidong Chen, Caleb Lareau, Tommaso Andreani, Michael E. Vinyard, Sara P. Garcia, Kendell Clement, Miguel A. Andrade-Navarro, Jason D. Buenrostro & Luca Pinello. Assessment of computational methods for the analysis of single-cell ATAC-seq data. Genome Biology 20, 241 (2019).).
+You can also find the dockerfile for installation.
 
-Due to the large size of the data, they are not directly available on Github. Just send an email to anna.danese@helmholtz-muenchen.de and we will make them available.
+Due to the large size of the data, they are not directly available on Github. Send an email to anna.danese@helmholtz-muenchen.de and we will make them available.
