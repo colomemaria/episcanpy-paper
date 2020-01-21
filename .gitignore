@@ -3,7 +3,11 @@
 *.txt
 *.gz
 *.tsv
-*.png
+Brain_Saunders2018/*.png
+Brain_Cusanovich2018/*.png
+Bone_Marrow_Cusanovich2018/*.png
+benchmarking/Real_Data/*.png
+benchmarking/Synthetic_Data/*.png
 *tbi
 docs/_build
 docs/api/episcanpy.api.*.rst
