@@ -8,29 +8,29 @@ The results in terms of ARI, AMI and homogeneity is shown in the figures below:
 
 ## Buenrostro et al 2018 (bulk peaks)
 HERE UMAP FIGURE from powerpoint
-<img src="../../images/Buenrostro_bulk_dotplot_ARI.png">
-<img src="../../images/Buenrostro_bulk_dotplot_AMI.png">
-<img src="../../images/Buenrostro_bulk_dotplot_homogeneity.png">
+<img src="../images/Buenrostro_bulk_dotplot_ARI.png">
+<img src="../images/Buenrostro_bulk_dotplot_AMI.png">
+<img src="../images/Buenrostro_bulk_dotplot_homogeneity.png">
 
 
 ## Buenrostro et al 2018
 HERE UMAP FIGURE from powerpoint
-<img src="../../images/Buenrostro_all_dotplot_ARI.png">
-<img src="../../images/Buenrostro_all_dotplot_AMI.png">
-<img src="../../images/Buenrostro_all_dotplot_homogeneity.png">
+<img src="../images/Buenrostro_all_dotplot_ARI.png">
+<img src="../images/Buenrostro_all_dotplot_AMI.png">
+<img src="../images/Buenrostro_all_dotplot_homogeneity.png">
 
 ## Cusanovich et al whole atlas
 HERE UMAP FIGURE from powerpoint
-<img src="../../images/Cusanovich_all_dotplot_ARI.png">
-<img src="../../images/Cusanovich_all_dotplot_AMI.png">
-<img src="../../images/Cusanovich_all_dotplot_homogeneity.png">
+<img src="../images/Cusanovich_all_dotplot_ARI.png">
+<img src="../images/Cusanovich_all_dotplot_AMI.png">
+<img src="../images/Cusanovich_all_dotplot_homogeneity.png">
 
 
 ## Cusanovich et al subsampled atlas
 HERE UMAP FIGURE from powerpoint
-<img src="../../images/Cusanovich_subset_dotplot_ARI.png">
-<img src="../../images/Cusanovich_subset_dotplot_AMI.png">
-<img src="../../images/Cusanovich_subset_dotplot_homogeneity.png">
+<img src="../images/Cusanovich_subset_dotplot_ARI.png">
+<img src="../images/Cusanovich_subset_dotplot_AMI.png">
+<img src="../images/Cusanovich_subset_dotplot_homogeneity.png">
 
 
 
